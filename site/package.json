@@ -2,7 +2,7 @@
   "name": "example",
   "private": true,
   "version": "2.1.1",
-  "homepage": "marekklofac.github.io",
+  "homepage": "marekklofac.github.io/qradar-siem-labs",
   "license": "Apache 2.0",
   "scripts": {
     "dev": "gatsby develop -H 0.0.0.0",
