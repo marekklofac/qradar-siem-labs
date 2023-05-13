@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-dsm-index-mdx",
+    "path": "/dsm/",
+    "result": {"pageContext":{"frontmatter":{"title":"DSM Editor","description":"Create and modify the parsing of incoming logs"},"relativePagePath":"/dsm/index.mdx","titleType":"page","MdxNode":{"id":"a56e9665-0f72-59c8-8f65-a60163d59f80","children":[],"parent":"0d9f2280-f1a5-5c29-a2f2-d8eafe807459","internal":{"content":"---\r\ntitle: DSM Editor\r\ndescription: Create and modify the parsing of incoming logs\r\n---\r\n\r\n","type":"Mdx","contentDigest":"fc84a277a145ab4ddc4e19d793508f0b","owner":"gatsby-plugin-mdx","counter":183},"frontmatter":{"title":"DSM Editor","description":"Create and modify the parsing of incoming logs"},"exports":{},"rawBody":"---\r\ntitle: DSM Editor\r\ndescription: Create and modify the parsing of incoming logs\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/dsm/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

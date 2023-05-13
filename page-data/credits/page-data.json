@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-credits-index-mdx",
+    "path": "/credits/",
+    "result": {"pageContext":{"frontmatter":{"title":"Credits","description":"Credits"},"relativePagePath":"/credits/index.mdx","titleType":"page","MdxNode":{"id":"6364dc52-6144-55bd-a6c1-d716fc1d37bb","children":[],"parent":"768f3a3d-fe9d-5145-8ae8-4da61330f1ec","internal":{"content":"---\r\ntitle: Credits\r\ndescription: Credits\r\n---\r\n\r\n","type":"Mdx","contentDigest":"4b06312887785c963e3272ee365a1498","owner":"gatsby-plugin-mdx","counter":180},"frontmatter":{"title":"Credits","description":"Credits"},"exports":{},"rawBody":"---\r\ntitle: Credits\r\ndescription: Credits\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/credits/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

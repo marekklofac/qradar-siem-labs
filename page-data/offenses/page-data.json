@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-offenses-index-mdx",
+    "path": "/offenses/",
+    "result": {"pageContext":{"frontmatter":{"title":"Investigating offenses","description":"Investigating generated offenses"},"relativePagePath":"/offenses/index.mdx","titleType":"page","MdxNode":{"id":"7028c08f-170f-530c-88f4-139bb738e377","children":[],"parent":"04f043ad-4844-5b93-b8f7-681947495b0b","internal":{"content":"---\r\ntitle: Investigating offenses\r\ndescription: Investigating generated offenses\r\n---\r\n\r\n","type":"Mdx","contentDigest":"d0702d0051c2ce52c2224d6f23f4b09a","owner":"gatsby-plugin-mdx","counter":184},"frontmatter":{"title":"Investigating offenses","description":"Investigating generated offenses"},"exports":{},"rawBody":"---\r\ntitle: Investigating offenses\r\ndescription: Investigating generated offenses\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/offenses/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

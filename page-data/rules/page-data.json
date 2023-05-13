@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-rules-index-mdx",
+    "path": "/rules/",
+    "result": {"pageContext":{"frontmatter":{"title":"Rules","description":"Creating and tuning rules"},"relativePagePath":"/rules/index.mdx","titleType":"page","MdxNode":{"id":"4db0dd79-d264-5458-ba9d-8f8e507dff51","children":[],"parent":"3140fd0f-6819-5066-9253-c9e890279533","internal":{"content":"---\r\ntitle: Rules\r\ndescription: Creating and tuning rules\r\n---\r\n\r\n","type":"Mdx","contentDigest":"f9dc6a8d48f3dc058bf9a4d8774f16d4","owner":"gatsby-plugin-mdx","counter":186},"frontmatter":{"title":"Rules","description":"Creating and tuning rules"},"exports":{},"rawBody":"---\r\ntitle: Rules\r\ndescription: Creating and tuning rules\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/rules/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-data-filtering-aql-index-mdx",
+    "path": "/data-filtering/aql/",
+    "result": {"pageContext":{"frontmatter":{"title":"Ariel Query Language","description":null},"relativePagePath":"/data-filtering/aql/index.mdx","titleType":"page","MdxNode":{"id":"50b6f8e0-814b-56f3-b46c-9dde0595a3d9","children":[],"parent":"8084fa93-cc76-5d0c-a596-adc9baeeb96e","internal":{"content":"---\r\ntitle: Ariel Query Language\r\ndescription: \r\n---\r\n\r\n","type":"Mdx","contentDigest":"716a7ef678f8dd00abf1859348ea7100","owner":"gatsby-plugin-mdx","counter":191},"frontmatter":{"title":"Ariel Query Language","description":null},"exports":{},"rawBody":"---\r\ntitle: Ariel Query Language\r\ndescription: \r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/data-filtering/aql/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

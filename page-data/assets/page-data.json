@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-assets-index-mdx",
+    "path": "/assets/",
+    "result": {"pageContext":{"frontmatter":{"title":"Assets","description":"Working with assets"},"relativePagePath":"/assets/index.mdx","titleType":"page","MdxNode":{"id":"ad53d0ae-821e-5e77-ae22-54a29f2497ad","children":[],"parent":"aeb3c6f6-8fda-5d74-a468-412a8fb8ac4a","internal":{"content":"---\r\ntitle: Assets\r\ndescription: Working with assets\r\n---\r\n\r\n","type":"Mdx","contentDigest":"57641aca8109546cc36aa167c17c1281","owner":"gatsby-plugin-mdx","counter":181},"frontmatter":{"title":"Assets","description":"Working with assets"},"exports":{},"rawBody":"---\r\ntitle: Assets\r\ndescription: Working with assets\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/assets/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}

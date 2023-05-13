@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-data-filtering-indexing-index-mdx",
+    "path": "/data-filtering/indexing/",
+    "result": {"pageContext":{"frontmatter":{"title":"Indexing of collected data","description":null},"relativePagePath":"/data-filtering/indexing/index.mdx","titleType":"page","MdxNode":{"id":"cc5a82e3-522e-56ec-bb41-485d01bdf17b","children":[],"parent":"dc02dfea-0ad1-5bcb-a5d2-58f06a86dfc5","internal":{"content":"---\r\ntitle: Indexing of collected data\r\ndescription:\r\n---\r\n\r\n","type":"Mdx","contentDigest":"2f469bc892f732e401b641233e3fcdbe","owner":"gatsby-plugin-mdx","counter":190},"frontmatter":{"title":"Indexing of collected data","description":null},"exports":{},"rawBody":"---\r\ntitle: Indexing of collected data\r\ndescription:\r\n---\r\n\r\n","fileAbsolutePath":"D:/qradar-siem-labs/site/src/pages/data-filtering/indexing/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
